@@ -1,4 +1,7 @@
 
+ # OpenXC-Player
+ Open source web player compatible with XtreamCodes V2 API
+
  
 ### Screenshots
 
